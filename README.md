@@ -1,5 +1,5 @@
 # wtk-dl
-Pobieranie filmów z serwisu [WTK PLAY](wtkplay.pl).
+Pobieranie filmów z serwisu [WTK PLAY](http://wtkplay.pl).
 
 ##Jak używać?
 Pobrać i rozpakować, ew. sklonować i wykonać komendę:
