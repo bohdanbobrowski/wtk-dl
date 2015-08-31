@@ -10,8 +10,4 @@ np.:
 
 > python wtk-dl-cli.py http://wtkplay.pl/video-id-16475-stereoskopowy_swiat
 
-> moj-poznan-moja-wielkopolska-196-2015-02-25-h264
-
-> python wtk-dl-cli.py http://wtkplay.pl/video-id-16475-stereoskopowy_swiat
-
 itd...
